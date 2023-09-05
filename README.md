@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## E_commerceIU
 
-This project is a starting point for a Flutter application.
+It is a Flutter application consisting of 4, application destinations are IU
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230905-151139](https://github.com/mohammed452/E_commersIU/assets/81010206/d7ed0cbf-32ae-4036-a4aa-205757bc2fa1)
+![Screenshot_20230905-151148](https://github.com/mohammed452/E_commersIU/assets/81010206/31a58f56-9629-4576-81e6-d80ac312d8c7)
+![Screenshot_20230905-151154](https://github.com/mohammed452/E_commersIU/assets/81010206/9f564138-41d6-4d3c-94f1-060b4f452b02)
+![Screenshot_20230905-151205](https://github.com/mohammed452/E_commersIU/assets/81010206/d962e8c2-26a5-4434-9536-673b12b4531d)
